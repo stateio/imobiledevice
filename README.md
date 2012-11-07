@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Imobiledevice
 
 Provides a ruby interface for libimobiledevice (http://www.libimobiledevice.org/).  So far, only a small subset of libimobiledevice's features are implemented.
@@ -106,3 +107,9 @@ aasvogels
 3. Commit your changes (`git commit -am 'Add some feature'`)
 4. Push to the branch (`git push origin my-new-feature`)
 5. Create new Pull Request
+=======
+libimobiledevice
+================
+
+Ruby bindings for libimobiledevice
+>>>>>>> b9b732bf12b0cc96a1af7ddf1fe304d4b4f1de37
