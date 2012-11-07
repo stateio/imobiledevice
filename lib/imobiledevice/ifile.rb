@@ -1,5 +1,5 @@
 require 'imobiledevice/c'
-require 'pry'
+
 module IMobileDevice
   class IFile
     def initialize(afc_client, handle)
